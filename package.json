@@ -1,8 +1,8 @@
 {
   "name": "http-status-enum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Comprehensive list of http status codes in a tidy typescript enum.",
-  "main": "./lib/status-codes.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
